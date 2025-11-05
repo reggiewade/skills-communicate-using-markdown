@@ -7,3 +7,8 @@
 import pandas as pd
 df = pd.read_csv('random.csv')
 ```
+
+- [ ] Finish Software Engineering Assignments
+- [ ] Swim
+- [ ] Study for Geology Exam
+- [ ] Finish Algorithms questions 4/5
